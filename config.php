@@ -26,7 +26,7 @@ $config = [
 
     // Настройки администратора
     'admin' => [
-        'password' => 'admin123',
+        'password' => 'CHANGE_ME',
         'chat_id' => 'YOUR_ADMIN_CHAT_ID'
     ],
 
